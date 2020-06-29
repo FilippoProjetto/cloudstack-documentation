@@ -61,7 +61,7 @@ Libvirt Python Dependency on KVM and CentOS
 
 For CentOS users using the security groups feature on KVM it is needed to install the epel-release and python36-libvirt packages.
 
-New User Interface & Depreciation notice of existing UI
+New User Interface & Deprecation notice of existing UI
 =======================================================
 
 Cloudstack 4.14 ships with a Technical Preview of a new, modern User Interface (project Primate).
